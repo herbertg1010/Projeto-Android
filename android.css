@@ -37,7 +37,7 @@
     flex-wrap: wrap;
     margin: auto;
     height: 330vh;
-    width: 40%;
+    width: 60%;
     align-items: flex-start;
     justify-content: flex-start;
     display: flex;
@@ -86,7 +86,7 @@
     display: flex;
     white-space: wrap;
     margin: 15px;
-    width: 100%;
+    
 }
 
 body{
